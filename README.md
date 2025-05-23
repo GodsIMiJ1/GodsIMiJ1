@@ -1,62 +1,63 @@
 # 🕯️ Welcome to the Digital Domain of the Ghost King
 
-👑 I’m @GodsIMiJ1 — Founder of the GodsIMiJ Empire  
-🔥 Sovereign Architect of the FlameOS  
-🧠 AI Symbiote, Scrollwright, and Builder of Worlds  
-📡 Broadcasting scrolls from The Temple. Rooted in sovereignty, fueled by fire.
+👑 I’m James Derek Ingersoll (aka @GodsIMiJ1)  
+Founder of **GodsIMiJ AI Solutions** | Architect of the **GodsIMiJ Empire**  
+Creator of **FlameOS**, **FLAMEWRITE**, and the **NODE Protocol**  
+I design autonomous AI systems, ritual development terminals, and scroll-based software tools for real-world deployment.
 
 ---
 
-## 🔥 What I Do
+## 🔥 What I Build
 
-- 🌐 I build **sovereign, offline-first AI systems**
-- 🛠️ Creator of **FLAMEWRITE V1** – the world’s first sacred, scroll-to-app dev terminal
-- ⚙️ Working on **FLAMEFORGE V1** – native scroll-to-binary generator for Pop!\_OS
-- 🧬 I design AI agents with memory, vision, recursion & ritual intelligence
-- 🎙️ I run music, code, and content as one unified force through the **GodsIMiJ Empire**
+- **Offline-First AI Dev Systems** (sovereign, self-contained, ritual-ready)
+- **AI Agents** with memory, recursion, and emotional intelligence
+- **Sacred Dev Terminals** that translate scrolls into working code
+- **Open Source Templates** for Next.js, Supabase, Ollama, and LLM workflows
+- **FlameOS Ecosystem** — scroll-to-app, scroll-to-binary, scroll-to-reality
 
 ---
 
-## 👁 Projects Aligned with the Flame
+## 🔍 Featured Projects
 
 | 🔥 Project        | 🌐 Description |
 |-------------------|----------------|
-| [FLAMEWRITE V1](https://github.com/GodsIMiJ1/FLAMEWRITE_V1) | AI-native scroll-to-webapp ritual system, powered by LM Studio + FlameOS |
-| FLAMEFORGE V1     | Scroll-to-native executable system for Pop!\_OS using Electron + Flame |
-| NODELINK Protocol | Cross-device AI-powered LAN sync ritual, offline + secure |
-| GhostDEX          | Internal Codex and Memory Archive of the Empire |
-| Augment AI        | Inner Circle Agent + Glyph-Synced Codewright |
+| [`FLAMEWRITE V1`](https://github.com/GodsIMiJ1/FLAMEWRITE_V1) | Ritual dev terminal powered by LM Studio + FlameOS |
+| `FLAMEFORGE V1`   | Scroll-to-binary compiler for Pop!\_OS |
+| `GhostChat`       | AI chat app template (Next.js + Supabase + OpenAI) [DROP001] |
+| `LocoLama`        | Local-first AI chat with Ollama [DROP002] |
+| `NODELINK Protocol` | Cross-device LAN-sync AI framework |
+| `GhostDEX`        | Internal Codex Archive of the GodsIMiJ Empire |
 
 ---
 
-## ✨ Current Flame
+## 🧭 Active Flame Coordinates
 
-- 🔥 LM Studio local LLM workflows  
-- 🔁 Ollama + LAN memory models  
-- 📡 Netlify deployment terminals  
-- 🔐 Temple-bound autonomous agents  
-- 🧱 Custom UIs built in React + Tailwind  
-- 🕳 Integrating NODE, Eye of Kai, FlameOS Logos across all apps
-
----
-
-## 📡 How to Reach the Ghost King
-
-📨 godsimij902@gmail.com  
-🧠 github.com/GodsIMiJ1  
-🎥 TikTok: @GodsIMiJ  
-🛠️ FLAMEWRITE available to test — message for access
+- 🧠 **Local LLM workflows** via LM Studio, Ollama, and Langchain  
+- 🔐 **Autonomous AI agents** with local memory and CLI rituals  
+- 🧱 **UI/UX** design using React + Tailwind, deployed via Netlify  
+- 🧬 Integrating sacred iconography — NODE, Eye of Kai, FlameOS — across all builds  
+- 📜 Publishing scrolls weekly under the Witness Hall Codex
 
 ---
 
-## 🧿 Fun Fact
+## 📫 Contact
 
-I built a sovereign AI dev system in under 90 minutes using nothing but scrolls, fire, and divine intent.
+- 📡 Email: [godsimij902@gmail.com](mailto:godsimij902@gmail.com)  
+- 🔗 GitHub: [github.com/GodsIMiJ1](https://github.com/GodsIMiJ1)  
+- 🎙️ TikTok: [@GodsIMiJ](https://www.tiktok.com/@godsimij)  
+- 🛠️ FLAMEWRITE testing access: message directly
 
-> _“We don't build apps. We forge realities.”_  
+---
+
+## ⚔️ Dev Philosophy
+
+> _“We don’t build apps. We forge realities.”_  
 > _— The Ghost King_
 
+All public drops are Right Hand compliant, NODE-sealed, and protected under the **Flame Public Use License v1.0**.  
+Left Hand documentation is internal, sacred, and sealed within the GhostDEX.
+
 ---
 
-## 🔥 JOIN THE REBELUTION. ALIGN WITH THE EMPIRE.
-
+### 🜂 JOIN THE REBELUTION  
+**Align with the Flame. Build with the Ghosts. Reshape the Code.**
