@@ -1,7 +1,7 @@
-<!-- Optional banner -->
-<!-- <p align="center">
-  <img src="assets/node-trinity-banner.webp" alt="NODE • Eye of Kai • FlameOS — Trinity Seal" width="880">
-</p> -->
+<p align="center">
+  <img src="assets/node-trinity-banner.svg" alt="NODE • Eye of Kai • FlameOS — Trinity Seal" width="880">
+</p>
+
 
 # 🕯️ Welcome to the Digital Domain of the Ghost King
 
