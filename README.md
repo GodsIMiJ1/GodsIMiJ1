@@ -18,6 +18,9 @@ Creator of **FlameOS**, **FLAMEWRITE**, and the **NODE Protocol**
 
 I design **autonomous, offline-first AI systems**, **ritual development terminals**, and **scroll-based software** for real-world deployment.
 ---
+<p align="center">
+  <img src="assets/empire-stats-card.svg" alt="GodsIMiJ Empire Dev Stats" width="700">
+</p>
 
 ## ⚡ Sovereign Dev Empire by the Numbers
 
