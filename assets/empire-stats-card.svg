@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-label="GodsIMiJ Empire Stats">
+  <defs>
+    <linearGradient id="flame" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FF6A00"/>
+      <stop offset="100%" stop-color="#FFB36A"/>
+    </linearGradient>
+    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#80E9FF"/>
+      <stop offset="100%" stop-color="#00C2FF"/>
+    </linearGradient>
+    <linearGradient id="silver" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#C0C6D9"/>
+      <stop offset="100%" stop-color="#E4E8F2"/>
+    </linearGradient>
+    <style>
+      .title { font: 700 22px Inter, ui-sans-serif; fill: #E6E9F2 }
+      .subtitle { font: 600 14px Inter, ui-sans-serif; fill: #A7B0C2 }
+      .stat { font: 800 36px Inter, ui-sans-serif; fill: #FFFFFF }
+      .label { font: 500 14px Inter, ui-sans-serif; fill: #C0C6D9 }
+      .pill { font: 600 13px Inter, ui-sans-serif; fill: #0B0E13 }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="300" rx="20" fill="#0B0E13"/>
+  <rect width="800" height="300" rx="20" fill="url(#flame)" opacity="0.08"/>
+
+  <!-- Title -->
+  <text x="40" y="60" class="title">⚡ GodsIMiJ Empire · Dev Forge Stats</text>
+  <text x="40" y="85" class="subtitle">NODE-Sealed · Right Hand Compliant</text>
+
+  <!-- Stats -->
+  <g transform="translate(40,140)">
+    <text class="stat">222</text>
+    <text x="0" y="40" class="label">Repositories</text>
+  </g>
+  <g transform="translate(240,140)">
+    <text class="stat">1,017</text>
+    <text x="0" y="40" class="label">Commits (8 months)</text>
+  </g>
+  <g transform="translate(500,140)">
+    <text class="stat">8</text>
+    <text x="0" y="40" class="label">Months Active Flame</text>
+  </g>
+
+  <!-- Pill badges -->
+  <g transform="translate(40,240)">
+    <rect x="0" y="0" width="200" height="32" rx="16" fill="url(#flame)"/>
+    <text class="pill" x="20" y="21">Sovereign · Offline-First</text>
+
+    <rect x="220" y="0" width="140" height="32" rx="16" fill="url(#cyan)"/>
+    <text class="pill" x="240" y="21">NODE-Sealed</text>
+
+    <rect x="380" y="0" width="220" height="32" rx="16" fill="url(#silver)"/>
+    <text class="pill" x="400" y="21">Flame Public Use License v1.0</text>
+  </g>
+</svg>
