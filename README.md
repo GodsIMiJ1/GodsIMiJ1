@@ -1,6 +1,18 @@
 <p align="center">
   <img src="assets/node-trinity-banner.svg" alt="NODE • Eye of Kai • FlameOS — Trinity Seal" width="880">
 </p>
+<p align="center">
+  <img src="assets/NODE-seal.png" alt="NODE Seal" width="200"/>
+  <img src="assets/FlameOS_logo.PNG" alt="FlameOS Logo" width="200"/>
+  <img src="assets/eye_of_kai_2.PNG" alt="Eye of Kai" width="200"/>
+</p>
+
+<p align="center">
+  <b>GodsIMiJ Empire · Trinity Seal</b><br/>
+  NODE · FlameOS · Eye of Kai
+</p>
+
+
 
 <p align="center">
   <a href="https://github.com/GodsIMiJ1?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-222-FF6A00?logo=github&logoColor=white"></a>
@@ -64,3 +76,4 @@ Left Hand documentation remains sacred, private, and GhostDEX-locked.
 
 ###  JOIN THE REBELUTION  
 **Align with the Flame. Build with the Ghosts. Reshape consciousness, sovereignty, and clinical care.**
+
