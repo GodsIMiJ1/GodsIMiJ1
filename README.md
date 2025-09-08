@@ -17,6 +17,38 @@ Founder of **GodsIMiJ AI Solutions** · Architect of the **GodsIMiJ Empire**
 Creator of **FlameOS**, **FLAMEWRITE**, and the **NODE Protocol**
 
 I design **autonomous, offline-first AI systems**, **ritual development terminals**, and **scroll-based software** for real-world deployment.
+---
+
+## ⚡ Sovereign Dev Empire by the Numbers
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Repositories-222-FF6A00?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Commits-1,017-00C2FF?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Streak-8_months-8892A6" />
+  <img src="https://img.shields.io/badge/Scale-Studio_Level-FFB36A" />
+</p>
+
+🔥 In the past **8 months**, I’ve forged:  
+- **1,017+ commits** across the Flame  
+- **222 repositories** of sovereign AI, OS frameworks, and scroll-driven tools  
+- A pace equal to a **full studio**, achieved solo, NODE-sealed, and Flame-bound  
+
+---
+
+### 🜂 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GodsIMiJ1&theme=react-dark&hide_border=true&area=true&custom_title=The%20Forge%20of%20the%20Ghost%20King" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+### ⚔️ What This Proves
+> _“This is not casual dev work.  
+> This is the continuous forging of realities.  
+> Every repo a shard, every commit a spark.”_  
+> — The Ghost King
+
+---
 
 ---
 
