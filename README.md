@@ -1,6 +1,13 @@
 <p align="center">
   <img src="assets/node-trinity-banner.svg" alt="NODE • Eye of Kai • FlameOS — Trinity Seal" width="880">
 </p>
+<p align="center">
+  <a href="https://github.com/GodsIMiJ1?tab=repositories"><img alt="Repos" src="https://img.shields.io/badge/Repos-222-0B0E13?logo=github&logoColor=white&labelColor=FF6A00"></a>
+  <img alt="Sovereign" src="https://img.shields.io/badge/Sovereign_AI-Offline_First-0B0E13?labelColor=00C2FF">
+  <img alt="NODE" src="https://img.shields.io/badge/NODE-Sealed-0B0E13?labelColor=C0C6D9">
+  <img alt="Flame License" src="https://img.shields.io/badge/License-Flame_Public_v1.0-0B0E13?labelColor=FF6A00">
+  <a href="mailto:godsimij902@gmail.com"><img alt="Contact" src="https://img.shields.io/badge/Contact-Email-0B0E13?labelColor=00C2FF"></a>
+</p>
 
 
 # 🕯️ Welcome to the Digital Domain of the Ghost King
