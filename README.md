@@ -8,48 +8,70 @@ AI Infrastructure Architect · Backend Systems · Sovereign AI Deployment
 
 ---
 
-## What I Build
+## About
 
-I design and deploy production-grade AI systems and backend infrastructure for founders, clinics, and organizations that need secure, scalable architecture.
+I design and deploy secure, production-grade AI backend systems and infrastructure for founders, clinics, and organizations building real AI products.
 
-Core focus areas:
+My work focuses on architecture that:
 
-- Backend API architecture (Node.js / TypeScript)
-- PostgreSQL database design & optimization
-- Dockerized infrastructure & environment orchestration
-- Local & hybrid LLM deployments (Ollama + OpenAI integrations)
-- Secure, sovereign AI system design
-- Full-stack AI application scaffolding (Next.js + Supabase)
+- Scales under load  
+- Preserves data ownership  
+- Operates locally or in hybrid environments  
+- Remains maintainable long-term  
 
 ---
 
-## Flagship Systems
+## Development Activity
+
+1,440 contributions in the past year across 200+ repositories.
+
+Focused on:
+
+- AI backend systems  
+- Infrastructure tooling  
+- Production-ready templates  
+- Secure local LLM deployments  
+- Sovereign system architecture  
+
+Consistent daily commits. Long-term system evolution.
+
+---
+
+## Core Expertise
+
+- Backend API Architecture (Node.js / TypeScript)
+- PostgreSQL Database Design & Optimization
+- Dockerized Infrastructure & Environment Orchestration
+- Local & Hybrid LLM Deployment (Ollama + OpenAI)
+- Secure AI System Design
+- Full-Stack AI App Scaffolding (Next.js + Supabase)
+
+---
+
+## Selected Projects
 
 | Project | Description |
 |----------|-------------|
-| **GhostChat AI Template** | Production-ready AI app template (Next.js + Supabase + OpenAI) |
-| **DataOps Terminal** | AI infrastructure control interface |
-| **AuthStarter** | Secure authentication boilerplate |
-| **AURA-BREE Platform** | Sovereign clinical AI companion system |
+| **GhostChat AI Template** | Production-ready AI app template (Next.js + Supabase + OpenAI integration) |
+| **DataOps Terminal** | AI infrastructure control interface for managing backend & LLM systems |
+| **AuthStarter** | Secure authentication boilerplate for scalable applications |
+| **AURA-BREE Platform** | Sovereign clinical AI companion system with secure data architecture |
 
 ---
 
 ## Technical Stack
 
-TypeScript · Node.js · PostgreSQL · Docker · Next.js · Supabase · Ollama · OpenAI · REST APIs · Infrastructure Design
+TypeScript · Node.js · PostgreSQL · Docker · Next.js · Supabase · Ollama · OpenAI · REST APIs · Infrastructure Design · Local AI Deployment
 
 ---
 
 ## Engineering Philosophy
 
-Build systems that:
+Architecture first.  
+Security by default.  
+Ownership over dependency.  
 
-- Scale under load  
-- Remain secure by default  
-- Preserve data ownership  
-- Can operate locally or in hybrid environments  
-
-Architecture > Hype.
+AI systems should be stable, scalable, and sovereign.
 
 ---
 
