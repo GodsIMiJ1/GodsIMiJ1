@@ -1,9 +1,10 @@
 <p align="center">
-  <img src="assets/godsimij_logo.png" alt="GodsIMiJ Logo" width="220">
+  <img src="assets/godsimij_logo.png" alt="GodsIMiJ Logo" width="660">
 </p>
 
 
-# 17713746 Canada Inc. as GodsIMiJ AI Solutions 2026. James Derek Ingersoll, President & Architect. 2025 Brainz Mag. Global 500 honoree & executive contributor
+# James Derek Ingersoll
+**17713746 Canada Inc. as GodsIMiJ AI Solutions 2026. James Derek Ingersoll, President & Architect. 2025 Brainz Mag. Global 500 honoree & executive contributor**
 AI Infrastructure Architect · Backend Systems · Sovereign AI Deployment  
 
 ---
