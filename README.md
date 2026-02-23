@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="assets/godsimij_logo.png" alt="GodsIMiJ Logo" width="220">
+</p>
+
+<p align="center">
   <img src="assets/node-trinity-banner.svg" alt="GodsIMiJ AI Systems Banner" width="880">
 </p>
 
