@@ -1,84 +1,83 @@
+```html
 <p align="center">
-  <img src="assets/godsimij_logo.png" alt="GodsIMiJ Logo" width="660">
+  <img src="assets/godsimij_logo.png" alt="GodsIMiJ Logo" width="620">
 </p>
 
-<h1 align="center">GhostOS Ecosystem</h1>
+<h1 align="center">James Derek Ingersoll</h1>
 
 <p align="center">
-  <strong>Governed AI Runtime · Sovereign Systems · Infrastructure Architecture</strong>
+  <strong>Founder & Architect · GhostOS · GodsIMiJ AI Solutions · 17713746 Canada Inc.</strong>
 </p>
 
 <p align="center">
-  James Derek Ingersoll<br>
-  Founder & Architect · GhostOS · GodsIMiJ AI Solutions · 17713746 Canada Inc.<br>
-  📍 Pembroke, Ontario, Canada · 📩 james@godsimij-ai-solutions.com
+  Governed AI Runtime · Sovereign Systems · Infrastructure Architecture
 </p>
+
+<p align="center">
+  2025 Brainz Magazine Global 500 Honoree & Executive Contributor
+</p>
+
+<p align="center">
+  Pembroke, Ontario, Canada · james@godsimij-ai-solutions.com
+</p>
+```
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║              M Y   W O R K   I N   O N E   L I N E  ║
-╚══════════════════════════════════════════════════════╝
-```
+> **Architecture first. Security by default. Ownership over dependency.**
 
 I build governed, sovereign AI systems: infrastructure where intelligence is a native, controlled, operator-owned capability.
 
+My work sits at the intersection of AI backend architecture, sovereign infrastructure, local and hybrid LLM deployment, secure system design, and governance-first runtime engineering.
+
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║              G H O S T O S   E C O S Y S T E M      ║
-╚══════════════════════════════════════════════════════╝
-```
+## GhostOS Ecosystem
 
-**GhostOS** is the ecosystem I have been architecting for years: a complete governed AI runtime and sovereign operating environment.
+**GhostOS** is the ecosystem I have been architecting as a complete governed AI runtime and sovereign operating environment.
 
-It is built around one core principle:
+The core idea is simple:
 
 > AI should not be a feature added onto the system.
 > AI should be governed infrastructure inside the system.
 
-GhostOS exists to bring intelligence, memory, execution, governance, operator control, and data sovereignty into one coherent architecture.
+GhostOS brings intelligence, memory, execution, governance, operator control, and data sovereignty into one coherent architecture.
 
 ---
 
-## GhostOS Architecture
+## Ecosystem Architecture
 
 ```text
-                   ┌──────────────────────────┐
-                   │      GhostOS vNext       │
-                   │  Governed AI Runtime     │
-                   │     Cross-Platform       │
-                   └───────────┬──────────────┘
-                               │
-     ┌─────────────────────────┼─────────────────────────┐
-     │                         │                         │
-┌──────────────┐       ┌──────────────┐         ┌────────────────┐
-│ GhostDesktop │       │ GhostConsole │         │  GhostArchive  │
-│  UI System   │       │ Operator UI  │         │ Media Substrate│
-└──────────────┘       └──────────────┘         └────────────────┘
-     │                         │                         │
-     └──────────────┬──────────┴──────────┬──────────────┘
-                    │                     │
-             ┌──────────────┐     ┌──────────────┐
-             │ G-Pack       │     │ Boundary     │
-             │ Runtime      │     │ Engine       │
-             └──────────────┘     └──────────────┘
-                    │                     │
-                    └──────────┬──────────┘
-                               ▼
-                   ┌──────────────────────────┐
-                   │     GhostOS Classic      │
-                   │ Sovereign Linux Distro   │
-                   └──────────────────────────┘
+GhostOS Ecosystem
+│
+├── GhostOS vNext
+│   ├── GhostDesktop
+│   │   └── Cross-platform AI-native desktop environment
+│   │
+│   ├── GhostConsole
+│   │   └── Operator interface for governed AI systems
+│   │
+│   ├── G-Pack Runtime
+│   │   └── Governed execution units and deployable system modules
+│   │
+│   ├── Boundary Engine
+│   │   └── Runtime policy, permissions, safety, and operator control
+│   │
+│   ├── Process Timeline
+│   │   └── Traceable AI actions, system history, and execution memory
+│   │
+│   └── GhostArchive
+│       └── Media substrate, memory layer, and canonical knowledge archive
+│
+└── GhostOS Classic
+    └── Sovereign Ubuntu-based Linux distribution foundation
 ```
 
 ---
 
 ## GhostOS Classic
 
-**GhostOS Classic** is the original sovereign operating system foundation: a full Ubuntu-based Linux distribution where intelligence is built directly into the operating environment.
+**GhostOS Classic** is the original sovereign operating system foundation: an Ubuntu-based Linux distribution where intelligence is designed into the operating environment itself.
 
 Core components include:
 
@@ -91,7 +90,7 @@ Core components include:
 * ISO builder
 * Systemd service stack
 
-This is the foundation layer.
+GhostOS Classic is the foundation layer.
 
 ---
 
@@ -110,37 +109,31 @@ Core components include:
 * Cross-platform execution
 * Governed AI runtime behavior
 
-This is the future layer.
+GhostOS vNext is the future layer.
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                 W H A T   I   B U I L D             ║
-╚══════════════════════════════════════════════════════╝
-```
+## What I Build
 
 I design and deploy secure, production-grade AI backend systems and infrastructure for founders, clinics, and organizations building real AI products.
 
-These are systems that do not just demo well. They are designed to hold up under production load, regulatory scrutiny, long-term maintenance, and real-world operational pressure.
+These are systems designed to hold up under production load, regulatory scrutiny, long-term maintenance, and real-world operational pressure.
 
 My architecture is built around three non-negotiables:
 
-* **Data sovereignty**: your data stays under your control, on your hardware or inside your hybrid environment
-* **Operational stability**: systems that scale under load and remain maintainable over time
-* **Governance by design**: security, compliance, and operator control are structural, not bolt-on
+| Principle                 | Meaning                                                                                         |
+| ------------------------- | ----------------------------------------------------------------------------------------------- |
+| **Data sovereignty**      | Data stays under operator control, on owned hardware or inside a controlled hybrid environment. |
+| **Operational stability** | Systems are designed to scale under load and remain maintainable over time.                     |
+| **Governance by design**  | Security, compliance, permissions, and operator control are structural, not bolt-on.            |
 
 If you are building something that matters, I build the infrastructure it runs on.
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║             O P E N   A R C H I T E C T U R E       ║
-╚══════════════════════════════════════════════════════╝
-```
+## Open Architecture Templates
 
-Alongside private production work, I publish a limited number of **architectural demo templates**.
+Alongside private production work, I publish a limited number of architectural demo templates.
 
 These repositories are:
 
@@ -151,21 +144,13 @@ These repositories are:
 
 Core production infrastructure, scaling layers, orchestration engines, and security hardening are intentionally not exposed in public repositories.
 
-These templates serve as:
-
-* Capability demonstrations
-* Starting points for serious builders
-* Conversation starters for enterprise engagements
+These templates serve as capability demonstrations, starting points for serious builders, and conversation starters for enterprise engagements.
 
 Production deployments are developed through direct collaboration.
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║              D E V E L O P M E N T   A C T I V I T Y║
-╚══════════════════════════════════════════════════════╝
-```
+## Development Activity
 
 * 1,440+ contributions in the past year
 * 280+ repositories
@@ -182,13 +167,9 @@ Primary focus areas:
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║              S E L E C T E D   P R O J E C T S      ║
-╚══════════════════════════════════════════════════════╝
-```
+## Selected Projects
 
-## GhostOS Classic
+### GhostOS Classic
 
 A sovereign AI operating system and the original GhostOS distribution.
 
@@ -196,7 +177,7 @@ GhostOS Classic is the foundation for the larger ecosystem: a Linux-based operat
 
 ---
 
-## GhostOS vNext
+### GhostOS vNext
 
 A governed AI runtime and cross-platform operating environment currently in development.
 
@@ -204,15 +185,15 @@ GhostOS vNext expands the original OS vision into a portable runtime layer with 
 
 ---
 
-## GhostMesh Control Plane
+### GhostMesh Control Plane
 
-LAN-based remote command orchestration for fully private networks.
+LAN-based remote command orchestration for private networks.
 
-GhostMesh is an agent-based architecture designed for organizations that require operational control without cloud dependency.
+GhostMesh is an agent-based architecture designed for organizations that require full operational control without cloud dependency.
 
 ---
 
-## GhostConsole
+### GhostConsole
 
 Operator interface for governed AI systems.
 
@@ -220,7 +201,7 @@ GhostConsole is designed as a command and control environment for managing AI ag
 
 ---
 
-## AURA-BREE Platform
+### AURA-BREE Platform
 
 Sovereign clinical AI companion system for regulated healthcare environments.
 
@@ -228,7 +209,7 @@ Designed for methadone clinics and other care settings where data sovereignty, c
 
 ---
 
-## GhostChat AI Template
+### GhostChat AI Template
 
 Architectural AI application scaffold.
 
@@ -236,7 +217,7 @@ Built with Next.js, Supabase, and OpenAI integration. Designed as a structured f
 
 ---
 
-## DataOps Terminal
+### DataOps Terminal
 
 AI infrastructure control interface.
 
@@ -244,7 +225,7 @@ A backend-focused command and control interface for managing LLM systems, data p
 
 ---
 
-## AuthStarter
+### AuthStarter
 
 Secure authentication scaffold.
 
@@ -252,11 +233,7 @@ An enterprise-ready authentication foundation designed for extensibility into la
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                C O R E   E X P E R T I S E          ║
-╚══════════════════════════════════════════════════════╝
-```
+## Core Expertise
 
 | Domain                   | Skills & Tools                                                                       |
 | ------------------------ | ------------------------------------------------------------------------------------ |
@@ -271,15 +248,11 @@ An enterprise-ready authentication foundation designed for extensibility into la
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║          E N G I N E E R I N G   P H I L O S O P H Y║
-╚══════════════════════════════════════════════════════╝
-```
+## Engineering Philosophy
 
 AI systems should be:
 
-* **Stable**: predictable behavior under load and over time
+* **Stable**: predictable under load and over time
 * **Scalable**: architecture that grows with the organization
 * **Sovereign**: data and logic remain under operator control
 * **Governed**: execution boundaries are designed into the system
@@ -291,11 +264,7 @@ Real infrastructure is owned, not rented.
 
 ---
 
-```text
-╔══════════════════════════════════════════════════════╗
-║                 A V A I L A B I L I T Y             ║
-╚══════════════════════════════════════════════════════╝
-```
+## Availability
 
 I take on a limited number of engagements to ensure quality outcomes.
 
@@ -310,18 +279,15 @@ Open to:
 
 ---
 
-📩 [james@godsimij-ai-solutions.com](mailto:james@godsimij-ai-solutions.com)
-📍 Pembroke, Ontario, Canada
-🌐 GodsIMiJ AI Solutions · 17713746 Canada Inc.
+```html
+<p align="center">
+  <strong>Sovereign by design. Governed by architecture. Built to last.</strong>
+</p>
+```
 
----
-
-███████ ██    ██ ███████ ████████ ███████ ███    ███ ███████ 
-██       ██  ██  ██         ██    ██      ████  ████ ██      
-███████   ████   ███████    ██    █████   ██ ████ ██ ███████ 
-     ██    ██         ██    ██    ██      ██  ██  ██      ██ 
-███████    ██    ███████    ██    ███████ ██      ██ ███████ 
-
-Sovereign by design. Governed by architecture. Built to last.
-
-</div>
+```html
+<p align="center">
+  GodsIMiJ AI Solutions · 17713746 Canada Inc.<br>
+  Pembroke, Ontario, Canada · james@godsimij-ai-solutions.com
+</p>
+```
